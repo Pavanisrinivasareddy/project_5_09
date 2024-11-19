@@ -1,0 +1,14 @@
+[
+    {
+        "usertype":"Admin",
+        "Username":"pavani",
+        "Password":1234
+
+    },
+    {
+        "usertype":"Bus Incharge",
+        "Username":"pavani",
+        "Password":4321
+
+    }
+]
